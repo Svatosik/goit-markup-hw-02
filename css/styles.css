@@ -112,7 +112,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-
   color: var(--light);
 }
 .logo-down {
@@ -175,8 +174,6 @@ body {
   /* identical to box height, or 120% */
 
   letter-spacing: 0.02em;
-
-  
 
   color: var(--dark);
 }
