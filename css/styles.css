@@ -219,7 +219,7 @@ body {
 .activity-item {
 }
 .team {
-   color: var(--light);
+   background-color: var(--light);
 }
 .team-title {
   font-weight: 700;
@@ -233,9 +233,9 @@ body {
   color: var(--dark);
 }
 .team-list {
-  background-color: var(--white-background);
 }
 .team-item {
+  background-color: var(--white-background);
 }
 .member {
   font-weight: 500;
