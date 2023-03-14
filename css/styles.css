@@ -60,7 +60,7 @@ body {
 
   /* NAVY BLUE */
 
-  color: var(--pressed-state);
+  color: var(--dark);
 }
 .header-link:hover {
   color: var(--pressed-state);
