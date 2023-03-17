@@ -86,6 +86,12 @@ body {
 
   color: var(--text);
 }
+.header-adr:focus {
+  color: var(--pressed-state);
+}
+.header-adr:hover {
+  color: var(--pressed-state);
+}
 .header-mail {
   font-style: normal;
   font-weight: 400;
