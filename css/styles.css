@@ -32,7 +32,7 @@ body {
 .header-item {
 }
 .header-logo {
-  font-family: "Raleway",sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -104,7 +104,7 @@ body {
   background: var(--dark);
 }
 .footer-logo {
-  font-family: "Raleway",sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -116,7 +116,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
- color: var(--primary-brand);
+  color: var(--primary-brand);
 }
 .logo-down {
   color: var(--light);
@@ -166,10 +166,10 @@ body {
   background: var(--primary-brand);
   cursor: pointer;
 }
-.hero-btn:hover{
+.hero-btn:hover {
   color: var(--pressed-state);
 }
-.hero-btn:focus{
+.hero-btn:focus {
   color: var(--pressed-state);
 }
 .advantage {
@@ -201,7 +201,6 @@ body {
   color: var(--text);
 }
 .activity {
- 
 }
 .activity-title {
   font-weight: 700;
@@ -219,7 +218,7 @@ body {
 .activity-item {
 }
 .team {
-   background-color: var(--light);
+  background-color: var(--light);
 }
 .team-title {
   font-weight: 700;
