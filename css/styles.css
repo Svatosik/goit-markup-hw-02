@@ -35,7 +35,7 @@ body {
 .logo-top {
   color: var(--dark);
 }
-.logo-link{
+.logo-link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -73,7 +73,19 @@ body {
 .header-address {
   font-style: normal;
 }
+.address-list > .header-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  /* identical to box height, or 150% */
 
+  letter-spacing: 0.02em;
+
+  /* SLATE */
+
+  color: var(--text);
+}
 .header-mail {
   font-style: normal;
   font-weight: 400;
@@ -167,7 +179,7 @@ body {
   cursor: pointer;
 }
 .hero-btn:hover {
- background-color: var(--pressed-state);
+  background-color: var(--pressed-state);
 }
 .hero-btn:focus {
   background-color: var(--pressed-state);
