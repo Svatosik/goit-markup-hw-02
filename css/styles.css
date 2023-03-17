@@ -73,7 +73,8 @@ body {
 .header-address {
   font-style: normal;
 }
-.address-list {
+.address-list > .header-link {
+  color: var(--text);
 }
 .header-mail {
   font-style: normal;
